@@ -9,9 +9,8 @@
 This notebook contains  stuff related to how to convert pdf to text format using pdfminer open source tool.
 
 ## Installation 
-'''!pip install pdfminer.six'''
+``` !pip install pdfminer.six```
 
 This extracts the data from the text from the pdf and stores as a string .
 
-the spaces are denoted by "\t"
-and the next line is denoted by "\n"
+the spaces are denoted by "\t" and the next line is denoted by "\n".
